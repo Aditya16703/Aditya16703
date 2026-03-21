@@ -81,6 +81,14 @@ I specialize in ** Full-Stack Development**, combining **modern UI frameworks**,
 - Clean architecture & maintainable codebase  
 - **Tech:** TypeScript
 
+
+### 🤖 SmartTutorAI — AI Learning Platform
+- Transforms topics or PDFs into a complete interactive learning space  
+- Generates summaries, quizzes, flashcards & podcast-style audio  
+- Built with multi-node AI workflows and real-time data handling  
+- **Tech:** Next.js, FastAPI, LangGraph, Gemini, Supabase, Tailwind  
+- 🔗 [Code](your-github-link) | 🌐 [Live Demo](your-deployment-link)
+
 ### 🕵️ Steganography Project
 - Secure data hiding using image, audio & text steganography  
 - Minimal distortion with file integrity preservation  
