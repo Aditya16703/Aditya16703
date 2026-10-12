@@ -1,11 +1,13 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=230&section=header&text=Aditya%20Singh%20Chauhan&fontSize=52&fontAlignY=36&desc=Full-Stack%20Systems%20Engineer%20%7C%20Agentic%20AI%20%26%20Distributed%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Aditya Singh Chauhan" />
-
-<!-- Dynamic Animated Typing Terminal -->
+<!-- Header Banner with Safe Link -->
 <a href="https://github.com/Aditya16703">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=840&lines=Full-Stack+Systems+Engineer+%26+GenAI+Specialist+🚀;Architecting+Autonomous+Multi-Agent+Workflows+with+LangGraph;Hybrid+Vector+RAG+%2B+Real-Time+SSE+Streaming+%2B+SM-2+SRS;Building+Scalable+Backends+with+FastAPI%2C+Node.js+%26+PostgreSQL;Java+DSA+Problem+Solver+%7C+Next.js+15+%7C+TypeScript" alt="Typing Terminal" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Aditya%20Singh%20Chauhan&fontSize=48&fontAlignY=36&desc=Full-Stack%20Systems%20Engineer%20%7C%20Agentic%20AI%20and%20Distributed%20Systems&descAlignY=58&descSize=18" width="100%" alt="Aditya Singh Chauhan" />
+</a>
+
+<!-- Dynamic Animated Typing Terminal (XML-safe) -->
+<a href="https://github.com/Aditya16703">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Systems+Engineer+and+GenAI+Specialist;Autonomous+Multi-Agent+Workflows+with+LangGraph;Hybrid+Vector+RAG+%2B+Real-Time+SSE+Streaming;Building+Scalable+Backends+with+FastAPI+and+PostgreSQL;Java+DSA+Problem+Solver+%7C+Next.js+15" alt="Typing Terminal" />
 </a>
 
 <br/>
@@ -24,7 +26,9 @@
   <a href="https://x.com/AdityaS77677417" target="_blank">
     <img src="https://img.shields.io/badge/X-@AdityaS77677417-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Aditya16703&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/Aditya16703">
+    <img src="https://komarev.com/ghpvc/?username=Aditya16703&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
+  </a>
 </p>
 
 <p align="center">
@@ -37,10 +41,10 @@
 
 ## ⚡ Executive Summary
 
-Final-year **B.Tech in Computer Science & Engineering (AI & ML)** student with deep specialization in **Full-Stack Engineering**, **Autonomous Multi-Agent Systems**, and **High-Performance Distributed Backends**.
+Final-year **B.Tech in Computer Science and Engineering (AI and ML)** student with deep specialization in **Full-Stack Engineering**, **Autonomous Multi-Agent Systems**, and **High-Performance Distributed Backends**.
 
 - 🔭 **Currently Building**: Cognitive AI platforms with **Hybrid Vector RAG**, **Sub-second Token Streaming**, and **Real-time Memory Consolidation**.
-- 🧠 **Technical Depth**: Strong foundation in **Data Structures & Algorithms in Java**, **Database Internals**, **System Design**, and **Operating Systems**.
+- 🧠 **Technical Depth**: Strong foundation in **Data Structures and Algorithms in Java**, **Database Internals**, **System Design**, and **Operating Systems**.
 - 🛠️ **System Architecture**: Proficient in orchestrating parallel agent graphs, designing circuit breakers for multi-LLM routing, and building zero-downtime microservices.
 - 🎯 **Career Objective**: Engineering high-scale software and impactful AI-native products at a top-tier technology company.
 
@@ -72,7 +76,7 @@ Final-year **B.Tech in Computer Science & Engineering (AI & ML)** student with d
     </td>
   </tr>
   <tr>
-    <td><b>Backend & Systems</b></td>
+    <td><b>Backend and Systems</b></td>
     <td>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -83,7 +87,7 @@ Final-year **B.Tech in Computer Science & Engineering (AI & ML)** student with d
     </td>
   </tr>
   <tr>
-    <td><b>GenAI & Agents</b></td>
+    <td><b>GenAI and Agents</b></td>
     <td>
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
@@ -94,7 +98,7 @@ Final-year **B.Tech in Computer Science & Engineering (AI & ML)** student with d
     </td>
   </tr>
   <tr>
-    <td><b>Databases & DevOps</b></td>
+    <td><b>Databases and DevOps</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
@@ -111,19 +115,19 @@ Final-year **B.Tech in Computer Science & Engineering (AI & ML)** student with d
 
 ## 🚀 Flagship Engineered Projects
 
-### 🎓 1. [SmartTutorAI — Agentic Learning & Cognitive Mastery Platform](https://github.com/Aditya16703/SmartTutorAI)
+### 🎓 1. [SmartTutorAI — Agentic Learning and Cognitive Mastery Platform](https://github.com/Aditya16703/SmartTutorAI)
 > **Full-Stack Agentic AI Platform** converting raw PDFs, YouTube lectures, and textbooks into adaptive cognitive learning spaces.
 - ⚡ **Real-Time Token Streaming**: Low-latency SSE streaming via FastAPI async generators with sub-200ms TTFT.
 - 🔍 **Hybrid Vector RAG**: Merges dense vector embeddings with BM25 lexical search using Reciprocal Rank Fusion (RRF), yielding exact page numbers and YouTube timestamp citations.
 - 🛡️ **RAG Triad Hallucination Guardrails**: Real-time evaluator grading Context Relevance, Groundedness (Anti-hallucination), and Answer Relevance with trust telemetry.
 - 📐 **STEM KaTeX Formula Engine**: First-class LaTeX formatting for complex calculus, physics, and chemical proofs.
-- 🧠 **SuperMemo SM-2 & Concept Mastery**: Models the human forgetting curve to schedule optimal review intervals ($I_n$) and diagnose student misconceptions.
+- 🧠 **SuperMemo SM-2 and Concept Mastery**: Models the human forgetting curve to schedule optimal review intervals and diagnose student misconceptions.
 - 📷 **Multimodal Vision Homework Solver**: Gemini 2.5 Flash Vision OCR transcribing handwritten equations into step-by-step LaTeX proofs.
 - 🌐 [**Live Demo**](https://smart-tutor-ai-tan.vercel.app/) • 💻 [**Source Code**](https://github.com/Aditya16703/SmartTutorAI)
 
 ---
 
-### 🍱 2. [Annadata — Scalable Food Logistics & Donation Platform](https://github.com/Aditya16703)
+### 🍱 2. [Annadata — Scalable Food Logistics and Donation Platform](https://github.com/Aditya16703)
 > **MERN-Stack Community Platform** connecting food donors, verification volunteers, and local food banks in real-time.
 - 🛡️ Built role-based access control (RBAC) with JWT authentication and granular route protection.
 - 📍 Real-time availability tracking with MongoDB aggregation pipelines for geospatial food distribution.
@@ -141,13 +145,13 @@ Final-year **B.Tech in Computer Science & Engineering (AI & ML)** student with d
 
 ### 💬 4. [Real-Time Distributed WebSockets Communication Engine](https://github.com/Aditya16703)
 > **High-Throughput Chat Architecture** engineered for bidirectional, low-latency message streaming.
-- ⚡ Sub-millisecond event dispatching using native WebSockets in Node.js & TypeScript.
+- ⚡ Sub-millisecond event dispatching using native WebSockets in Node.js and TypeScript.
 - 🔄 Type-safe packet validation with schema contracts and client-side heartbeat re-connection.
 - 💻 **Tech**: TypeScript, Node.js, WebSockets, Tailwind CSS
 
 ---
 
-## 📊 Live GitHub Analytics & Telemetry
+## 📊 Live GitHub Analytics and Telemetry
 
 <div align="center">
   <table border="0">
@@ -177,14 +181,14 @@ Final-year **B.Tech in Computer Science & Engineering (AI & ML)** student with d
 
 ---
 
-## 🏆 Competitive Programming & Problem Solving
+## 🏆 Competitive Programming and Problem Solving
 
 <div align="center">
-  <a href="https://leetcode.com/u/Adityasinghchauhan16/">
+  <a href="https://leetcode.com/u/Adityasinghchauhan16/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Adityasinghchauhan16-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/ac3413452">
+  <a href="https://www.codechef.com/users/ac3413452" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-ac3413452-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
   </a>
 </div>
@@ -196,9 +200,9 @@ Final-year **B.Tech in Computer Science & Engineering (AI & ML)** student with d
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## 🤝 Let's Connect and Collaborate!
 
-I am actively open to **Software Engineer (SDE)**, **Full-Stack Engineer**, and **AI/ML Engineer** opportunities. If you're building ambitious products or scaling high-throughput systems, feel free to reach out!
+I am actively open to **Software Engineer (SDE)**, **Full-Stack Engineer**, and **AI and ML Engineer** opportunities. If you're building ambitious products or scaling high-throughput systems, feel free to reach out!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aditya-singh-chauhan-68a44230a/" target="_blank">
@@ -217,5 +221,7 @@ I am actively open to **Software Engineer (SDE)**, **Full-Stack Engineer**, and 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <a href="https://github.com/Aditya16703">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%" alt="Footer Banner" />
+  </a>
 </div>
